@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(rm -rf node_modules)",
+      "Bash(npm install *)"
+    ]
+  }
+}
